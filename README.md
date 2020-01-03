@@ -2,6 +2,7 @@
 This project was guided by [@aneagoie](https://github.com/aneagoie), utilizing his Zero to Mastery [Program](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/). And bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Prev](https://github.com/Samuelcy/Face-Image-Recognition/public/preview.png)
+![Alt text](Face-Image-Recognition/public/preview.png?raw=true "Title")
 
 
 ## Available Scripts
