@@ -1,5 +1,6 @@
-## Face Image Recognition application that uses [Calarifai's Face Recognition API](https://www.clarifai.com/models/face-detection-image-recognition-model-a403429f2ddf4b49b307e318f00e528b-detection).
-This project was guided by [@aneagoie](https://github.com/aneagoie), utilizing his "The Complete Web Developer in 2020: Zero to Mastery" [Program](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/). And in conjugation with [Create React App](https://github.com/facebook/create-react-app).
+## Face Image Recognition Application
+
+Using [Calarifai's Face Recognition API](https://www.clarifai.com/models/face-detection-image-recognition-model-a403429f2ddf4b49b307e318f00e528b-detection),t his project was guided by [@aneagoie](https://github.com/aneagoie), utilizing his "The Complete Web Developer in 2020: Zero to Mastery" [Program](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/). And in conjugation with [Create React App](https://github.com/facebook/create-react-app).
 
 The purpose of this application is to take any images (.png or jpg), and auto-detect any faces that are in the image.
 
@@ -23,5 +24,8 @@ You will also see any lint errors in the console.
 
 
 ### WIP
-- Login / Registration
+- Login / Registration (Working)
 - Database (User profiles)
+- Server
+
+
