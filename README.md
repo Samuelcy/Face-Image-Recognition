@@ -24,5 +24,8 @@ You will also see any lint errors in the console.
 
 
 ### WIP
-- Login / Registration
+- Login / Registration (Working)
 - Database (User profiles)
+- Server
+
+
