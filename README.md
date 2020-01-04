@@ -1,4 +1,4 @@
-## Face Image Recognition Application
+## Face Image Recognition Application - WIP
 
 Using [Calarifai's Face Recognition API](https://www.clarifai.com/models/face-detection-image-recognition-model-a403429f2ddf4b49b307e318f00e528b-detection),t his project was guided by [@aneagoie](https://github.com/aneagoie), utilizing his "The Complete Web Developer in 2020: Zero to Mastery" [Program](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/). And in conjugation with [Create React App](https://github.com/facebook/create-react-app).
 
