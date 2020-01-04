@@ -19,8 +19,7 @@ You will also see any lint errors in the console.
 
 
 ### Preview:
-
-![preview](https://user-images.githubusercontent.com/50973399/71714424-e739af00-2db1-11ea-9bd1-3433d8a31f3b.png)
+![Alt Text](https://media.giphy.com/media/mGPwms1DvPrrSzSK5v/giphy.gif)
 
 
 ### WIP
